@@ -1,0 +1,8 @@
+//United States
+1HGCM82633A123456 - Car Honda Accord
+1HDLBWB394Y064388 - Harley Davidson Heritage Classic
+
+
+//India 
+MA3FHEB1S00712345 - Maruti with error 
+MD2B68BX6PWE10936 - Bajaj Bike
